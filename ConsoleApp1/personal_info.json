@@ -1,0 +1,262 @@
+[
+  {
+    "FirstName": "Alice",
+    "LastName": "Smith",
+    "CardCredentials": {
+      "CardNumber": "1111-2222-3333-4444",
+      "ExpirationDate": "01/23",
+      "CVC": 123
+    },
+    "PinCode": 2345,
+    "TransactionHistory": [
+      {
+        "TransactionDate": "2024-01-12T22:06:43.5342914+04:00",
+        "TransactionType": "get amount",
+        "AmountGel": 180.0,
+        "AmountUsd": 0.0,
+        "AmountEur": 0.0
+      },
+      {
+        "TransactionDate": "2024-01-12T21:21:15.4400898+04:00",
+        "TransactionType": "changed pin code",
+        "AmountGel": 200.0,
+        "AmountUsd": 0.0,
+        "AmountEur": 0.0
+      },
+      {
+        "TransactionDate": "2024-01-12T19:46:27.0373389+04:00",
+        "TransactionType": "balance inquery",
+        "AmountGel": 200.0,
+        "AmountUsd": 0.0,
+        "AmountEur": 0.0
+      },
+      {
+        "TransactionDate": "2024-01-12T18:57:32.9058276+04:00",
+        "TransactionType": "add amount",
+        "AmountGel": 200.0,
+        "AmountUsd": 0.0,
+        "AmountEur": 0.0
+      },
+      {
+        "TransactionDate": "2024-01-12T18:28:39",
+        "TransactionType": "initial transaction",
+        "AmountGel": 0.0,
+        "AmountUsd": 0.0,
+        "AmountEur": 0.0
+      }
+    ]
+  },
+  {
+    "FirstName": "Bob",
+    "LastName": "Johnson",
+    "CardCredentials": {
+      "CardNumber": "5555-6666-7777-8888",
+      "ExpirationDate": "04/25",
+      "CVC": 456
+    },
+    "PinCode": 9876,
+    "TransactionHistory": [
+      {
+        "TransactionDate": "2024-01-12T22:25:56.4509436+04:00",
+        "TransactionType": "balance inquery",
+        "AmountGel": 0.0,
+        "AmountUsd": 0.0,
+        "AmountEur": 0.0
+      },
+      {
+        "TransactionDate": "2024-01-12T22:13:45.7770392+04:00",
+        "TransactionType": "initial transaction",
+        "AmountGel": 0.0,
+        "AmountUsd": 0.0,
+        "AmountEur": 0.0
+      }
+    ]
+  },
+  {
+    "FirstName": "Charlie",
+    "LastName": "Brown",
+    "CardCredentials": {
+      "CardNumber": "9999-0000-1111-2222",
+      "ExpirationDate": "07/28",
+      "CVC": 789
+    },
+    "PinCode": 5432,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "David",
+    "LastName": "Miller",
+    "CardCredentials": {
+      "CardNumber": "1234-5678-9012-3456",
+      "ExpirationDate": "10/30",
+      "CVC": 12
+    },
+    "PinCode": 8765,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "Eva",
+    "LastName": "Davis",
+    "CardCredentials": {
+      "CardNumber": "9876-5432-1098-7654",
+      "ExpirationDate": "02/22",
+      "CVC": 234
+    },
+    "PinCode": 1234,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "Frank",
+    "LastName": "Taylor",
+    "CardCredentials": {
+      "CardNumber": "1357-2468-3579-8642",
+      "ExpirationDate": "06/25",
+      "CVC": 567
+    },
+    "PinCode": 4321,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "Grace",
+    "LastName": "Clark",
+    "CardCredentials": {
+      "CardNumber": "2468-1357-8642-3579",
+      "ExpirationDate": "09/28",
+      "CVC": 678
+    },
+    "PinCode": 7890,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "Henry",
+    "LastName": "White",
+    "CardCredentials": {
+      "CardNumber": "3698-1475-2586-0312",
+      "ExpirationDate": "12/23",
+      "CVC": 890
+    },
+    "PinCode": 5678,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "Ivy",
+    "LastName": "Anderson",
+    "CardCredentials": {
+      "CardNumber": "7531-9862-2405-8713",
+      "ExpirationDate": "03/25",
+      "CVC": 901
+    },
+    "PinCode": 1234,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "Jack",
+    "LastName": "Harrison",
+    "CardCredentials": {
+      "CardNumber": "8642-3579-9753-1806",
+      "ExpirationDate": "05/27",
+      "CVC": 345
+    },
+    "PinCode": 4321,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "Kelly",
+    "LastName": "Martin",
+    "CardCredentials": {
+      "CardNumber": "9753-1806-8642-3579",
+      "ExpirationDate": "08/30",
+      "CVC": 678
+    },
+    "PinCode": 5678,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "Leo",
+    "LastName": "Wilson",
+    "CardCredentials": {
+      "CardNumber": "2468-1357-3579-8642",
+      "ExpirationDate": "11/26",
+      "CVC": 901
+    },
+    "PinCode": 7890,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "Mia",
+    "LastName": "Baker",
+    "CardCredentials": {
+      "CardNumber": "7531-9862-8713-2405",
+      "ExpirationDate": "01/24",
+      "CVC": 234
+    },
+    "PinCode": 4321,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "Noah",
+    "LastName": "Walker",
+    "CardCredentials": {
+      "CardNumber": "1234-5678-9012-3456",
+      "ExpirationDate": "04/27",
+      "CVC": 567
+    },
+    "PinCode": 8765,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "Olivia",
+    "LastName": "Cooper",
+    "CardCredentials": {
+      "CardNumber": "9876-5432-1098-7654",
+      "ExpirationDate": "07/29",
+      "CVC": 890
+    },
+    "PinCode": 1234,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "Peter",
+    "LastName": "Fisher",
+    "CardCredentials": {
+      "CardNumber": "5555-6666-7777-8888",
+      "ExpirationDate": "10/31",
+      "CVC": 12
+    },
+    "PinCode": 9876,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "Quinn",
+    "LastName": "Adams",
+    "CardCredentials": {
+      "CardNumber": "9999-0000-1111-2222",
+      "ExpirationDate": "02/23",
+      "CVC": 345
+    },
+    "PinCode": 5432,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "Rachel",
+    "LastName": "Collins",
+    "CardCredentials": {
+      "CardNumber": "1111-2222-3333-4444",
+      "ExpirationDate": "05/26",
+      "CVC": 678
+    },
+    "PinCode": 1234,
+    "TransactionHistory": []
+  },
+  {
+    "FirstName": "Samuel",
+    "LastName": "Perez",
+    "CardCredentials": {
+      "CardNumber": "2468-1357-8642-3579",
+      "ExpirationDate": "08/29",
+      "CVC": 901
+    },
+    "PinCode": 5678,
+    "TransactionHistory": []
+  }
+]
